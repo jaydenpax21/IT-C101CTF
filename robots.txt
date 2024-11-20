@@ -1,5 +1,7 @@
 User-agent: *
-Allow: /index.html
-Disallow: /cameras.html
-Disallow: /facilityinfo.html
-Disallow: /partnerinfo.html
+Allow: /index
+Allow: /hint1
+Allow: /hint2
+Disallow: /cameras
+Disallow: /facilityinfo
+Disallow: /partnerinfo
