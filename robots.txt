@@ -5,3 +5,4 @@ Allow: /hint2
 Disallow: /cameras
 Disallow: /facilityinfo
 Disallow: /partnerinfo
+Disallow: /dontLookHere
